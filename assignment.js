@@ -68,4 +68,4 @@ function megaFriend(arr) {
     }
     return result;
 }
-console.log(megaFriend(["Bittoooooo", "Sakibbb", "Sornaly"]))
+
