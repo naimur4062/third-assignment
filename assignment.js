@@ -1,6 +1,6 @@
+// https://github.com/naimur4062/third-assignment
 
-
-// Question:1 (Convert kilomer to meter)
+// Question:1 (Convert kilometer to meter)
 
 function kilometerToMeter(kilometer) {
     var meter = kilometer * 1000;
@@ -63,7 +63,6 @@ function megaFriend(arr) {
     for (var i = 0; i < arr.length; i++) {
         if (arr[i].length > result.length) {
             result = arr[i];
-
         }
     }
     return result;
